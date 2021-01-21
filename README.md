@@ -8,4 +8,4 @@ pyChecker.py: The only necessary file for playing the game, requires this file: 
 
 graphics.py: A user-friendly graphics library for Python
 
-Video Demonstration: https://www.youtube.com/watch?v=U77nGUhCLO8&feature=youtu.be
+Video Demonstration: https://youtu.be/U77nGUhCLO8
